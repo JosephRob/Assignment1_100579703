@@ -1,0 +1,30 @@
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.cell.PropertyValueFactory?>
+<BorderPane fx:controller="Asmt1.Controller"
+            xmlns:fx="http://javafx.com/fxml">
+<!--    <center>
+        <TableView fx:id="tableView">
+            <columns>
+                <TableColumn text="File" fx:id="File" resizable="false">
+                </TableColumn>
+                <TableColumn text="Actual class" fx:id="actualClass" resizable="false">
+                </TableColumn>
+                <TableColumn text="Spam probability" fx:id="spamProbability" resizable="false">
+                </TableColumn>
+            </columns>
+        </TableView>
+    </center>
+    <bottom>
+        <GridPane>
+            <children>
+                <Button text="train" onAction="#train" GridPane.columnIndex="0" GridPane.rowIndex="1"/>
+                <Button text="test" onAction="#test" GridPane.columnIndex="1" GridPane.rowIndex="1"/>
+                <Button text="exit" onAction="#exit" GridPane.columnIndex="2" GridPane.rowIndex="1"/>
+            </children>
+        </GridPane>
+    </bottom>-->
+</BorderPane>

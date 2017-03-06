@@ -1,0 +1,3 @@
+javac Asmt1/*.java
+java Asmt1.Main
+rm Asmt1/*.class
